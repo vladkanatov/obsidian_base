@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "f7069f3497205fe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0991a6ea8d36fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96054d1b56be33ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7dbece45bbd88139",
+    "type": "split",
+    "children": [
+      {
+        "id": "708850284e326dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7f6dab403d0715",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8da8c9bad7c20c1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d44812662ee8ea2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df61cb91dff8a17a",
+    "type": "split",
+    "children": [
+      {
+        "id": "887e9fafefe02c85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8bc07abc8e82ec1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "REST API.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a3b1eed95ae9c35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "REST API.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f6d845f29709fda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36f43fac32d3c995",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REST API.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7d7f6dab403d0715",
+  "lastOpenFiles": [
+    "ASYNC API.md",
+    "REST API.md",
+    "REST.md",
+    "().md",
+    "Без названия.canvas"
+  ]
+}
