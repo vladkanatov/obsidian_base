@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "9923ccd334e76c7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dfeae9d281fb1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d15c7cb989592d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "login handler.canvas",
+                "viewState": {
+                  "x": 236.97935331057027,
+                  "y": 367.96303937540085,
+                  "zoom": -0.39166656931241345
+                }
+              }
+            }
+          },
+          {
+            "id": "92fd5f4ee4a994d5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "APIPARSERPROJECT/Base Arch.canvas",
+                "viewState": {
+                  "x": 310.3714220054102,
+                  "y": -940.9393704143334,
+                  "zoom": -1.320233063288495
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f84173192adfa0de",
+    "type": "split",
+    "children": [
+      {
+        "id": "10620956be2b4a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e7fd2c146f65893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "642b0404180d0880",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cf2e37f3d6d547c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf1e7110b39ed44b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2fe5b7c6840246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27dbb4857478831a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "APIPARSERPROJECT/Base Arch.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3318826e67550bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "APIPARSERPROJECT/Base Arch.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abce05943c9a8721",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e68b347f30f45f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APIPARSERPROJECT/Base Arch.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "92fd5f4ee4a994d5",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "APIPARSERPROJECT/Base Arch.canvas",
+    "APIPARSERPROJECT/Тех. лист.md",
+    "APIPARSERPROJECT",
+    "login handler.canvas",
+    "APIs/ASYNC API.md",
+    "APIs/REST API.md"
+  ]
+}
