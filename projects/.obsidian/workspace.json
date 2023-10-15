@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "4f009d628175f5e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c41d1db29521ba3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23c5e8e34d1b08cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c012343d8fde1c1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Архитектура прокта.canvas",
+                "viewState": {
+                  "x": 363.505939101565,
+                  "y": -1274.5486274079528,
+                  "zoom": 0.036666666666666556
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdcd8da8c975041b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f3990a1d427746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743661065f2bfff2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "330253ebe6b0e077",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3b2ae8dc823864f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddb99a946ea859e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c573336d437bbb17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f002aece38514c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Архитектура прокта.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5963d07b22d8472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Архитектура прокта.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e30fbdd95339693f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de6ba4b7177abbcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Архитектура прокта.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1c012343d8fde1c1",
+  "lastOpenFiles": [
+    "Проект сайта для покупки игр в Steam.md",
+    "Архитектура прокта.canvas"
+  ]
+}

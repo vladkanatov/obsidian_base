@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"89c836e9537b4953","type":"text","text":"Бот Steam или Steam API","x":-80,"y":-440,"width":119,"height":160,"color":"4"},
+		{"id":"d194da0cc778bea2","type":"text","text":"Основное API","x":380,"y":-860,"width":250,"height":60,"color":"#000000"},
+		{"id":"358704bfc31f1561","type":"text","text":"/api/site*","x":228,"y":-730,"width":152,"height":50,"color":"6"},
+		{"id":"8bce90c4ae47ddf7","type":"text","text":"/api/bot/*","x":630,"y":-730,"width":137,"height":50,"color":"6"},
+		{"id":"0cb2e33d23e8d460","type":"text","text":"Сайт","x":-80,"y":-560,"width":119,"height":60,"color":"1"},
+		{"id":"e727e0926671e9d1","type":"text","text":"База данных","x":380,"y":-1380,"width":250,"height":73,"color":"3"},
+		{"id":"c15734ace28c6e43","type":"text","text":"MySQL","x":699,"y":-1379,"width":252,"height":72,"color":"3"},
+		{"id":"ddece73da3f7b967","type":"text","text":"fastapi, uvicorn, celery","x":701,"y":-860,"width":250,"height":60,"color":"#000000"},
+		{"id":"176e414e612b90f6","type":"text","text":"Таблица Users","x":-140,"y":-1540,"width":250,"height":72,"color":"2"},
+		{"id":"d0fbb81b004bf7b4","type":"text","text":"Таблица Operations","x":-140,"y":-1379,"width":250,"height":72,"color":"2"},
+		{"id":"9b5c574753eb617d","type":"text","text":"Таблица Bots","x":-140,"y":-1218,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"0d8ac8f36ea31f01","fromNode":"89c836e9537b4953","fromSide":"right","toNode":"8bce90c4ae47ddf7","toSide":"bottom","color":"4"},
+		{"id":"e74d0afc381e5be0","fromNode":"0cb2e33d23e8d460","fromSide":"right","toNode":"358704bfc31f1561","toSide":"bottom","color":"1"},
+		{"id":"f6d936d9f358f2a4","fromNode":"d194da0cc778bea2","fromSide":"bottom","toNode":"358704bfc31f1561","toSide":"top","color":"#000000"},
+		{"id":"e0124f9848b38149","fromNode":"d194da0cc778bea2","fromSide":"bottom","toNode":"8bce90c4ae47ddf7","toSide":"top","color":"#000000"},
+		{"id":"09827e3078e9d0c7","fromNode":"c15734ace28c6e43","fromSide":"left","toNode":"e727e0926671e9d1","toSide":"right"},
+		{"id":"a1b4fc070006f833","fromNode":"ddece73da3f7b967","fromSide":"left","toNode":"d194da0cc778bea2","toSide":"right","color":"#000000"},
+		{"id":"ffbda46145f560c7","fromNode":"e727e0926671e9d1","fromSide":"left","toNode":"176e414e612b90f6","toSide":"right","color":"3"},
+		{"id":"e4592c155486e9cf","fromNode":"e727e0926671e9d1","fromSide":"left","toNode":"d0fbb81b004bf7b4","toSide":"right","color":"3"},
+		{"id":"d29cbd56ab60ebc5","fromNode":"e727e0926671e9d1","fromSide":"left","toNode":"9b5c574753eb617d","toSide":"right","color":"3"},
+		{"id":"d3d8ff310e499d5c","fromNode":"d194da0cc778bea2","fromSide":"top","toNode":"e727e0926671e9d1","toSide":"bottom","color":"#000000","label":"SQLAlchemy, alembic\n\n"}
+	]
+}
