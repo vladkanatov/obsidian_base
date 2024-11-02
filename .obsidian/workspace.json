@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44d15c7cb989592d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "login handler.canvas",
-                "viewState": {
-                  "x": 236.97935331057027,
-                  "y": 367.96303937540085,
-                  "zoom": -0.39166656931241345
-                }
-              }
-            }
-          },
-          {
             "id": "92fd5f4ee4a994d5",
             "type": "leaf",
             "state": {
@@ -31,7 +16,9 @@
                 "file": "sluzh/Молодёжная суббота 07.09. Ход служения.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Молодёжная суббота 07.09. Ход служения"
             }
           },
           {
@@ -43,7 +30,9 @@
                 "file": "sluzh/Проповедь.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Проповедь"
             }
           },
           {
@@ -55,7 +44,9 @@
                 "file": "sluzh/Субботняя школа.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Субботняя школа"
             }
           },
           {
@@ -67,7 +58,159 @@
                 "file": "sluzh/Проповедь.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Проповедь"
+            }
+          },
+          {
+            "id": "69630e975c7ffbc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Дамп базы PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дамп базы PostgreSQL"
+            }
+          },
+          {
+            "id": "c61e5954aaa4485e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Дамп базы PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дамп базы PostgreSQL"
+            }
+          },
+          {
+            "id": "3519888064e9e1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Работа/Задача по дампу базы и миграции из k8s/Задача по дампу базы из k8s.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задача по дампу базы из k8s"
+            }
+          },
+          {
+            "id": "4f0b338c13ddcb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Работа/Задача по дампу базы и миграции из k8s/Проект Ansible для операций с базой данных и.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проект Ansible для операций с базой данных и"
+            }
+          },
+          {
+            "id": "d548f3f62ab6c216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANLG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ANLG"
+            }
+          },
+          {
+            "id": "b49185786c276373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Работа/Задача по дампу базы и миграции из k8s/DEVOPS-104.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEVOPS-104"
+            }
+          },
+          {
+            "id": "126c00219d7c7043",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240917000601.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240917000601"
+            }
+          },
+          {
+            "id": "0c65a39d1b83cdb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Работа/TRSEVA-2414.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TRSEVA-2414"
+            }
+          },
+          {
+            "id": "dc0b0ed881615ad3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "7a64d4b88391e9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект по корпоративному хранилищу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проект по корпоративному хранилищу"
+            }
+          },
+          {
+            "id": "a867f1486d11ecbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sluzh/Субботняя школа 01.11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Субботняя школа 01.11"
             }
           },
           {
@@ -79,11 +222,13 @@
                 "file": "sluzh/Проповедь.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Проповедь"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -103,7 +248,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -118,7 +265,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -126,7 +275,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -149,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sluzh/Проповедь.md",
+                "file": "Проект по корпоративному хранилищу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +308,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Проект по корпоративному хранилищу"
             }
           },
           {
@@ -166,10 +319,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sluzh/Проповедь.md",
+                "file": "Проект по корпоративному хранилищу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Проект по корпоративному хранилищу"
             }
           },
           {
@@ -180,7 +335,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -189,8 +346,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sluzh/Проповедь.md"
-              }
+                "file": "Проект по корпоративному хранилищу.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Проект по корпоративному хранилищу"
             }
           }
         ]
@@ -210,14 +369,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c5a56870cb41b46",
+  "active": "a867f1486d11ecbb",
   "lastOpenFiles": [
-    "sluzh/План проповеди.md",
-    "login handler.canvas",
+    "Проект по корпоративному хранилищу.md",
+    "sluzh/Субботняя школа 01.11.md",
+    "Pasted image 20240917000601.png",
+    "DevOps/Работа/TRSEVA-2414.md",
+    "Запрос для ChatGPT о финансах.md",
+    "DevOps/Работа/Задача по дампу базы и миграции из k8s/DEVOPS-104.md",
+    "Plans",
+    "DevOps/Работа/Доступы.md",
+    "DevOps/Работа/Задача по дампу базы и миграции из k8s/Задача по дампу базы из k8s.md",
+    "ANLG.md",
+    "DevOps/Работа/Задача по дампу базы и миграции из k8s/Проект Ansible для операций с базой данных и.md",
+    "DevOps/Работа/Задача по дампу базы и миграции из k8s",
+    "sluzh/Молодёжная суббота 07.09. Ход служения.md",
+    "DevOps/Дамп базы PostgreSQL.md",
+    "DevOps/src/Pasted image 20240908193738.png",
+    "DevOps/src",
+    "DevOps/src/Pasted image 20240908193636.png",
+    "Pasted image 20240908193634.png",
+    "Pasted image 20240908193339.png",
+    "DevOps/Работа",
+    "DevOps",
     "sluzh/Проповедь.md",
+    "login handler.canvas",
+    "sluzh/План проповеди.md",
     "sluzh/Лучшие вопросы для субботней школы.md",
     "sluzh/Субботняя школа.md",
-    "sluzh/Молодёжная суббота 07.09. Ход служения.md",
     "APIPARSERPROJECT/Base Arch.canvas",
     "Без названия.md",
     "APIPARSERPROJECT/Тех. лист.md",
